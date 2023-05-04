@@ -72,13 +72,5 @@
             </plugin>
         </plugins>
         
-              <groupId>org.apache.maven.plugins</groupId>
-              <artifactId>maven-war-plugin</artifactId>
-              <version>3.6.3</version>
-              <configuration>
-                <failonMissingWebXML>false<failonMissingWebXml>
-              </configuration>
-            </plugins>
-      
     </build>
 </project>
